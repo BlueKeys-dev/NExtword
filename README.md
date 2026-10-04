@@ -21,4 +21,4 @@ uv run --python .venv/bin/python --with mlx-lm python Tests/terminal_test/predic
 
 Edit `input.txt`. Wrap any span in `[[like this]]` to send it for grammar refine; Tab replaces the wrap with the result. Without `[[ ]]`, Tab still applies the last-line rewrite. Esc clears. Ctrl+C quits.
 
-// This project is immature and intended as a weekend Python coding experiment for fun.
+// This project is immature and intended as a weekend Python coding experiment for fun. coded by cracked teenager .
